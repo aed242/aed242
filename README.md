@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a first year software development graduate student at Boston University. I'm an aspiring software engineer, and am always trying to learn more!
+
 <!--
 **aed242/aed242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
