@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi!👋
 
 I'm a first year Software Development Graduate Student at Boston University. I'm an aspiring software engineer, and am always trying to learn more!
 
