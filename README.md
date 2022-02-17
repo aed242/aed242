@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a first year software development graduate student at Boston University. I'm an aspiring software engineer, and am always trying to learn more!
+I'm a first year Software Development Graduate Student at Boston University. I'm an aspiring software engineer, and am always trying to learn more!
 
 Check out my website to see some of my skills (React, HTML, CSS) in action, and a more detailed bio than what I have here! 
 
