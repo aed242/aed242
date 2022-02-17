@@ -2,6 +2,9 @@
 
 I'm a first year software development graduate student at Boston University. I'm an aspiring software engineer, and am always trying to learn more!
 
+Check out my website to see some of my skills (React, HTML, CSS) in action, and a more detailed bio than what I have here! 
+
+
 <!--
 **aed242/aed242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
